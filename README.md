@@ -1,1 +1,1 @@
-<B> Predictive Analytics for Customer Satisfaction - Southeast Airlines <B>
+<B> Customer Intelligence for Southeast Airlines<B>
